@@ -1,0 +1,63 @@
+[
+		{
+            "LocationName": "Dinosaur Bar-B-Que",
+            "Address": "604 Union St, New York, NY 11215",
+            "Lat": 40.67761,
+            "Lng": -73.98412
+        },
+		{
+            "LocationName": "Fletcher's Brooklyn Barbecue",
+            "Address": "433 3rd Ave, Brooklyn, NY 11215",
+            "Lat": 40.67224,
+            "Lng": -73.98998
+        },
+        {
+            "LocationName": "Jake's Barbecue Restaurant",
+            "Address": "189 Columbia St, New York, NY 11231",
+            "Lat": 40.68551,
+            "Lng": -74.00219
+        },
+        {
+            "LocationName": "Brooklyn Ice House",
+            "Address": "318 Van Brunt St, New York, NY 11231",
+            "Lat": 40.67919,
+            "Lng": -74.01110
+        },
+        {
+            "LocationName": "The Smoke Joint",
+            "Address": "87 S Elliott Pl, New York, NY 11217",
+            "Lat": 40.68692,
+            "Lng": -73.97534
+        },
+        {
+            "LocationName": "Morgans BBQ",
+            "Address": "267 Flatbush Ave, New York, NY 11217",
+            "Lat": 40.67988,
+            "Lng": -73.97415
+        },
+        {
+            "LocationName": "Halsey Street Grill",
+            "Address": "260 Halsey St, Brooklyn, NY 11216",
+            "Lat": 40.68242,
+            "Lng": -73.94339
+        },
+        {
+            "LocationName": "Pork Slope",
+            "Address": "247 5th Ave, Brooklyn, NY 11215",
+            "Lat": 40.67477,
+            "Lng": -73.98124
+        },
+        {
+            "LocationName": "Little Brother BBQ",
+            "Address": "544 Clinton Ave, Brooklyn, NY 11238",
+            "Lat": 40.68194,
+            "Lng": -73.96675
+        },
+        {
+            "LocationName": "Fort Reno",
+            "Address": "669 Union St, New York, NY 11215",
+            "Lat": 40.67730,
+            "Lng": -73.98270
+        }
+			]
+				

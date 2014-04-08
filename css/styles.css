@@ -1,0 +1,62 @@
+html { 
+	height: 100%;
+	font: 14px Roboto,Arial,sans-serif}
+	
+body { 
+	height: 100%; 
+	margin: 0; 
+	padding: 0}
+	
+#map-canvas { 
+	height: 100%;
+	width:100%;
+	margin:0px auto}
+	
+.gm-style-iw strong { 
+	font-size: 16px;}
+	
+#side-bar {
+	position:absolute;
+	background-color: #333;
+	color:white;
+	right: 20px;
+	bottom:20px;
+	padding: 10px 0;
+	border: 1px solid #666;
+	border-radius: 10px;}
+	
+	#side-bar .locations {
+		display:none;
+		margin:0;
+		padding: 0;}
+	
+	#side-bar a {
+		display:block;
+		text-decoration: none;
+		color: white;
+		padding: 3px 20px 3px 15px;}
+		
+		#side-bar a.view {
+			padding: 3px 15px;
+			font-weight:bold;
+			text-align: center;}
+			
+		#side-bar a.open {
+			color: #666;
+			position: absolute;
+			right: 4px;
+			top: 4px;
+			padding: 0 6px 2px 6px;
+			border: 1px solid white;
+			border-radius: 10px;
+			z-index: 999;
+			background-color:white;
+			font-weight:normal;}
+			
+			#side-bar a.open:hover {
+				background-color:#DEDEDE;
+				color: black}
+		
+	#side-bar a.active {
+		background-color: #DEDEDE;
+		color: #333}
